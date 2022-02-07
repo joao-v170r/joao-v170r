@@ -1,7 +1,6 @@
 
 <div align="center">
- <h1>Olá! Eu sou Joao Vitor Aguiar</h1>
-  <p>- 🔭Estudando Vue.js</p>  
+ <h1>Olá! Eu sou Joao Vitor Aguiar</h1>    
   <p>- 👨‍🎓Curso ADS(Analise e Desenvolvimento de Sistemas)</p>
   <p>- 🤓Atualmente trabalho mais com a biblioteca chart.js</p>  
   <p>- 💼Hoje trabalho como estagiario na area de Beck-end e Front-end</p> 
