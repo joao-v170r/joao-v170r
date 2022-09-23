@@ -2,8 +2,8 @@
 <div align="center">
  <h1>Olá! Eu sou Joao Vitor Aguiar</h1>    
   <p>- 👨‍🎓Curso ADS(Analise e Desenvolvimento de Sistemas)</p>
-  <p>- 🤓Atualmente trabalho mais com a biblioteca chart.js</p>  
-  <p>- 💼Hoje trabalho como estagiario na area de Beck-end e Front-end</p> 
+  <p>- 🤓Atualmente estudando lareavel</p>  
+  <p>- 💼Hoje trabalho pricipalmente no Back-end atuando também no Front-end</p> 
 </div>
 <div align="center" style="display: inline_block"><br>
   <code><img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
