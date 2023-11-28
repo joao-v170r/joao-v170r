@@ -11,7 +11,6 @@
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Joao-laravel" height="30" width="40" src="https://laravel.com/img/logomark.min.svg" />
-  <img align="center" alt="Joao-node" height="30" width="40" src="https://nodejs.org/static/images/logo.svg" />
   <img align="center" alt="Joao-chartjs" height="30" width="40"  src="https://www.chartjs.org/img/chartjs-logo.svg" />
 </div> 
 <br>
